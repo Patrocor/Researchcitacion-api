@@ -4,3 +4,7 @@ python-multipart
 sqlalchemy
 python-docx
 aiofiles
+scholarly
+pymed
+beautifulsoup4
+requests
